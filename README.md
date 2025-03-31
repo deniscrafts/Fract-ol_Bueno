@@ -1,3 +1,7 @@
+Como porongas usar el fractol?
+
+
+
 void	show_help(void)
 {
 	print("\n", 1);
