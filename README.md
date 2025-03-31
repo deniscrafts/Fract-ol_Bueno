@@ -10,3 +10,5 @@ Como porongas usar el fractol?
 8. El botón L te deja lockear el Julia Set
 9. Presiona 0 para resetear el fractal
 10. Finalmente, Presiona ESC para salirte
+
+Visualizer: https://complex-analysis.com/contenido/conjunto_de_mandelbrot.html
